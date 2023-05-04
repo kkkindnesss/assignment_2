@@ -1,0 +1,41 @@
+/* Общие стили */
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  color: #000;
+  text-decoration: none;
+}
+
+a {
+  border: none;
+}
+
+ul {
+  list-style: none;
+  padding: 10px;
+  margin: 10px;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+  margin: 10px;
+}
+
+/* Стили для элементов HTML */
+h1 {
+  font-size: 1.7rem;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 1.1rem;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
